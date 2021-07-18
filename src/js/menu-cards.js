@@ -1,5 +1,5 @@
 import menu from './menu.json';
-import cardsTemplates from './templates/cards.hbs';
+import cardsTemplates from '../templates/cards.hbs';
 
 const menuRef = document.querySelector('.js-menu');
 
